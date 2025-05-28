@@ -100,8 +100,8 @@ AluraStoreLatam/
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/alurastore-latam-analysis.git
-cd alurastore-latam-analysis
+git clone https://github.com/MarteDevs/challenge1-data-science-latam.git
+cd challenge1-data-science-latam
 ```
 
 ### 2. Instalar Dependencias
@@ -237,7 +237,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 **Marco Rodrigo Polo Silva**
 - GitHub: [@MarteDevs](https://github.com/MarteDevs)
-- LinkedIn: [Tu Perfil](linkedin.com/in/noark-mps)
+- LinkedIn: [@Marco](linkedin.com/in/noark-mps)
 - Email: soumartex@gmail.com
 
 ---
